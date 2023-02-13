@@ -1,7 +1,7 @@
 from tkinter import *
 from random import *
 
-#Selection mot à tirer
+#Selection mot à tirerr
 listWords = ["fleur", "voiture", "maison", "garage", "parking"]
 nbAlea = randrange(0, len(listWords))
 motChoisi = listWords[nbAlea]
